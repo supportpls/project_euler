@@ -1,0 +1,3 @@
+file1=open('problem18_triangle')
+file2=file1.read()
+print(file2)
